@@ -5,6 +5,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abel-paul-38944831b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@abel06official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abel06official@gmail.com) 
 
+## 🛡️ DEFENSIVE TOOLSET
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-00FF41?style=for-the-badge&logo=linux)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-00AA55?style=for-the-badge&logo=gnometerminal)
+![OWASP Practitioner](https://img.shields.io/badge/OWASP%20Practitioner-005500?style=for-the-badge&logo=owasp)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-008800?style=for-the-badge&logo=hackaday)
+![System Hardening](https://img.shields.io/badge/Linux%20Hardening-004400?style=for-the-badge&logo=linux)
+
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 
